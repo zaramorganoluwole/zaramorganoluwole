@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zaramorganoluwole
-- 👀 I’m interested in Health Data Science, pPython, R and more!
+- 👀 I’m interested in Health Data Science, Python, R and more!
 - 🌱 I’m currently learning RShiny and Python!
 - 💞️ I’m looking to collaborate on projects surrounding Health Data Science!
 - 📫 How to reach me best is my email!
